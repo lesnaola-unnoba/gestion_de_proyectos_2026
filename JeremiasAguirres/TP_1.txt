@@ -1,0 +1,4 @@
+Se han descargado 6 archivos PDF del repositorio de GitHub, cada uno muestra una rúbrica de cada entrega parcial del TPI. 
+Cada uno describe los criterios de evaluación, su porcentaje de incidencia y las posibles notas, las cuales están acompañadas
+de comentarios que las describen.
+He podido abrirlos todos y los he observado sin demasiado detenimiento.
