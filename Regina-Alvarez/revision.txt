@@ -1,6 +1,4 @@
 He revisado correctamente cada uno de los archivos del repositorio.
-<<<<<<< HEAD
 Cambio hecho desde la rama principal.
-=======
 cambio hecho desde la rama "rama_prueba"
->>>>>>> rama_prueba
+
