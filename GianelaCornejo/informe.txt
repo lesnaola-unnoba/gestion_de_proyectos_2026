@@ -1,1 +1,3 @@
-Cambio distinto en main
+Revise todos los archivos del repositorio
+
+Cambio en main y en rama combinados
