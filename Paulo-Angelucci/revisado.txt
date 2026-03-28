@@ -1,2 +1,2 @@
-Escribi esto desde rama main
+Revise todos los archivos y lei atentamente los criterios de evaluacion
 Agrego una linea en nueva rama
