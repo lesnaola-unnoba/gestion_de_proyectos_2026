@@ -1,0 +1,1 @@
+He leido atentamente todos los archivos mediante Visual Studio Code
