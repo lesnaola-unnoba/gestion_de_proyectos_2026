@@ -1,3 +1,4 @@
 Se ha explorado el repositorio y leído las rúbricas del TPI.
 Se ha creado nueva rama "ej3-Pringles" y movido a esta acorde al ejercicio 3. 
 Cambio en rama Main
+Cambio desde rama conflicto
