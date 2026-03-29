@@ -1,0 +1,3 @@
+Se leyó atentamente cada rubrica y tomado nota de las condiciones de evaluación en cada instancia del desarrollo.
+
+TEXTO ESCRITO EN RAMA MAIN Y TEXTO ESCRITO EN RAMA PRUEBA.
