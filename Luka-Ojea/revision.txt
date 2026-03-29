@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 He revisado los archivos del repositorio, analizando las distintas rubricas para calificar
 
 Esta linea la escribi desde main.
+=======
+He revisado los archivos del repositorio, analizando las distintas rubricas para calificar.
+
+Esta linea la escribi desde la rama dev.
+>>>>>>> dev
