@@ -1,0 +1,2 @@
+Revisé todos los archivos y leí atentamente los criterios de evaluación. 
+Creé la rama activ-01. Hice commit, hice push.
