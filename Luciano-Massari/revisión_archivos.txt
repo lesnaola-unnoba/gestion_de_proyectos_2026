@@ -1,0 +1,3 @@
+Revise todos los archivos del repositorio.
+
+Resuelvo el conflicto de ramas.
